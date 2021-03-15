@@ -1,3 +1,4 @@
+div {color: pink;}
 h1 {color: black; text-shadow: 2px 2px pink;} 
 		#my-id {color: hotpink; background: #DBDBDB } 
 		.my-container {text-align: center; font-family: 'Amatic SC', cursive; width: 320px;
